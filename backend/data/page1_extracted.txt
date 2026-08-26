@@ -1,0 +1,211 @@
+07/04/2025
+07/04/2025
+07/04/2025
+07/04/2025
+08/04/2025
+22/04/2025
+07/05/2025
+07/05/2025
+07/05/2025
+08/05/2025
+07/06/2025
+07/06/2025
+07/06/2025
+07/06/2025
+09/06/2025
+10/06/2025
+11/06/2025
+07/07/2025
+07/07/2025
+07/07/2025
+08/07/2025
+07/08/2025
+Due for Instalment Amount 50
+Payment Received 
+Installment Bounced
+Due for Cheque Bouncing Charges
+Payment Received 
+Payment Received 
+Due for Instalment Amount 51
+Due for Interest On Unpaid 
+Installment 
+Payment Received 
+Payment Received 
+Due for Instalment Amount 52
+Payment Received 
+Installment Bounced
+Due for Cheque Bouncing Charges
+Payment Received 
+Payment Received 
+Payment Received 
+Due for Instalment Amount 53
+Due for Interest On Unpaid 
+Installment 
+Payment Received 
+Payment Received 
+Due for Instalment Amount 54
+S116456321/1-50
+S116456321/1-50
+HOLD_DEBIT
+RAC DEBIT
+S116456321/1-51
+M_HOLD_DEBIT
+S116456321/1-52
+S116456321/1-52
+M_HOLD_DEBIT
+HOLD_DEBIT
+RAC DEBIT
+S116456321/1-53
+M_HOLD_DEBIT
+ 13,434.00 DR
+ 13,434.00 CR
+ 13,434.00 DR
+ 450.00 DR
+ 13,434.00 CR
+ 450.00 CR
+ 13,434.00 DR
+ 3.00 DR
+ 13,434.00 CR
+ 3.00 CR
+ 13,434.00 DR
+ 13,434.00 CR
+ 13,434.00 DR
+ 450.00 DR
+ 2,591.40 CR
+ 10,842.60 CR
+ 450.00 CR
+ 13,434.00 DR
+ 8.00 DR
+ 13,434.00 CR
+ 8.00 CR
+ 13,434.00 DR
+Loan Account No:
+Statement Period: 01/04/2025 to 31/03/2026
+NITIN MEDICAL & SURGICAL
+PLOT NO 356/7
+SAS NAGAR MOHALI
+13,434.00 DR
+0.00 DR
+13,434.00 DR
+13,884.00 DR
+450.00 DR
+0.00 DR
+13,434.00 DR
+13,437.00 DR
+3.00 DR
+0.00 DR
+13,434.00 DR
+0.00 DR
+13,434.00 DR
+13,884.00 DR
+11,292.60 DR
+450.00 DR
+0.00 DR
+13,434.00 DR
+13,442.00 DR
+8.00 DR
+0.00 DR
+13,434.00 DR
+HDFC BANK LTD
+Name of Financier:
+57739048
+UCIC:
+02/01/2026
+Statement Issue Date:
+116456321
+07/04/2025
+08/04/2025
+22/04/2025
+07/05/2025
+08/05/2025
+07/06/2025
+09/06/2025
+10/06/2025
+11/06/2025
+07/07/2025
+08/07/2025
+Address:
+State : PUNJAB
+PinCode : 160055Phone : 9316131624, Mobile No:9316131624
+Cheque S. No.
+Date
+Particulars
+Debit / Credit 
+Balance
+Value date
+1
+Page No:
+of
+Name:
+City : MOHALI.
+MOHALI
+Branch:
+05/02/2021
+Disbursal Date:
+60
+Total Tenure:
+Monthly EMIs
+Frequency of EMI:
+ 664,900.00
+Amount Financed:
+PB65AZ5334
+Regn. No: 
+G4LFMV066748
+Engine No:
+MALBG512LMM040644
+Chassis No:
+ 142,135.51
+Balance Prin O/s at start of Statement Period (Rs.):
+AUTO LOAN
+Product:
+ 13,434.00
+EMI Amount(Rs.):
+ 659,592.00
+Amount Disbursed:
+HYUNDAI I-20 MAGNA
+Model:
+07/03/2021
+Installment Start Date:
+Installment End Date:
+07/02/2026
+ 0.00
+Total Installments Overdue (Rs.): 
+ 0.00
+Total Payments Overdue (Rs):
+Active
+ 0.00
+Total LPP O/S Charges(Rs.): 
+Total CBC O/S Charges(Rs):
+ 0.00
+Loan Status:
+N
+FD Collateral:
+Linked Agreement No(s). :
+Total Prin & interest paid during stmt period (Rs.):
+ 120,906.00
+Principal paid during statement period (Rs.):
+ 115,528.08
+Interest paid during statement period (Rs.):
+ 5,377.92
+Bal Prin O/S at the end of statement period (Rs):
+ 26,607.43
+Rate Of interest applied from 
+ 7.85
+APR-2025
+FEB-2026
+To
+Interest Rate Type:
+Fixed
+:
+%
+Total O/S dues as on 02/01/2026
+No Records
+Number of EMI Pending:
+Annual Percentage Rate (%):
+2
+ 8.12
+Principal Recovered Till Date:
+Interest Recovered Till Date:
+638292.57
+140879.43
+2
